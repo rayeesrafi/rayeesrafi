@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Rayees Rafi. Iam a Computer Engineer mentally,Experience and by Profession.Iam a former angular developer.
+- 👀 I’m interested in learning new technologies as well as networking.
+- 🌱 I’m currently learning stuffs aout networking and webpage development.
+- 💞️ I’m looking to collaborate on new technologies aswell as networking.
+- 📫 How to reach me ... Reach me at rayeesrrafi@gmail.com
+-
