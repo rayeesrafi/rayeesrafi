@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rayees Rafi</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <a href="https://github.com/rayeesrafi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayeesrafi" alt="rayeesrafi" /></a> </p>
-
 - 🌱 I’m currently learning **Networking,Angular Framework and related stuffs.**
 
 - 📫 How to reach me **rayeesrrafi@gmail.com**
