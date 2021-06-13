@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rayees Rafi</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayeesrafi&label=Profile%20views&color=0e75b6&style=flat" alt="rayeesrafi" /> </p>
-
 <p align="left"> <a href="https://github.com/rayeesrafi/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayeesrafi" alt="rayeesrafi" /></a> </p>
 
 - 🌱 I’m currently learning **Networking,Angular Framework and related stuffs.**
